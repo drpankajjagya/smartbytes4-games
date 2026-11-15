@@ -749,7 +749,7 @@ function tsGo(){unlock();S.settings.gameSec=TS.sec;S.settings.turnSec=TS.turn;sa
  const pp=P();pp.last=Date.now();save();if(teamsOn()&&S.curTeam!=null){TURN=S.curTeam;drawTeams();document.querySelectorAll('#turn').forEach(e=>e.innerHTML=turnLabel())}updHud();updTop();
  setPause(false);GT.start(S.settings.gameSec);if(TS.mode==='pre'&&classMode())setTimeout(turnScreen,250);
  if(GS&&!GS.over&&TM.lastUp){if(S.settings.turnSec>0)TM.start(S.settings.turnSec,TM.lastUp);else{TM.stop();TM.total=0;TM.onUp=null;TM.draw()}}}
-function preGame(){if(!GS||GS.over)return;if(S.settings.askTime||FORCEWHO){FORCEWHO=false;openTimeSet('pre');setTimeout(()=>{const n=document.getElementById('pname');if(n&&!S.cur&&innerWidth>700)n.focus()},200)}else GT.start(S.settings.gameSec||0)}
+function preGame(){if(!GS||GS.over)return;if(S.settings.askTime||FORCEWHO){FORCEWHO=false;openTimeSet('pre');setTimeout(()=>{const n=document.getElementById('pname');if(n&&!S.cur&&innerWidth>700)n.focus()},200)}else{GT.start(S.settings.gameSec||0);if(classMode()){TURN=0;drawTeams();setTimeout(turnScreen,250)}}}
 function closeTimeUI(){document.getElementById('turnov')?.classList.remove('on');document.getElementById('tsmodal')?.classList.remove('on');document.getElementById('tuover')?.classList.remove('on')}
 function nextTarget(){if(!cur||cur.id==='fin')return "go('home')";if(curGame<cur.games.length-1)return `openSection('${cur.id}',${curGame+1})`;const i=META.findIndex(m=>m.id===cur.id);return META[i+1]?`go('sec','${META[i+1].id}')`:"go('home')"}
 function timeUp(){SND.bell();setPause(true);const sc=GS?GS.score:0,mx=GS?GS.max:0,st=mx?pctStars(sc/mx):0;const e=document.getElementById('tuover');

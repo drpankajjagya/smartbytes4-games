@@ -1,0 +1,80 @@
+SmartBytes 4 · Chapter 1 Game World — Tutorial narration (English)
+
+## 01. Introduction: learning through play
+Welcome! This is the SmartBytes 4 Game World, an interactive game for Chapter 1 of the book SmartBytes Computer 4.
+In the spirit of NEP 2020 and the new curriculum framework, children learn by playing. Every exercise of the chapter has become a game: sorting, matching, quizzes, puzzles and team rounds.
+The whole game is a single web page. It works on a mobile phone, a computer and on a classroom smart board, even without internet once it is opened. Let's see how to use it in class.
+
+## 02. Opening the game and sound
+Open the game link in any browser, such as Chrome, Safari or Edge, on a phone, a laptop or the interactive board. On a phone you can also add it to the home screen.
+The first screen has a Test sound button. Tap it to check the speakers. On an iPhone, keep the volume up.
+Now tap Tap to start. The sounds switch on, and the home screen opens.
+At the top you have the coins, the timer, music on or off, the language button, Home, and the Teacher panel.
+
+## 03. Choosing a language
+The game works in 23 languages: English and all 22 languages of the Eighth Schedule of the Constitution.
+Tap the language button to see them all, written in their own script.
+Choose a language, for example Tamil, and the whole screen changes instantly.
+Questions are complete in English and Hindi. In the other languages the menus and buttons change, and the questions appear in English or Hindi, as the teacher chooses.
+
+## 04. The home map and the 9 worlds
+The home screen is a map of nine worlds, one for each part of the chapter, from Computers Around Us to Practice and Apply.
+Each world has several games. Children earn up to three stars in every world, and the glowing arrow shows which world to play next.
+When children have stars in four worlds, the Final Challenge unlocks, a mixed quiz from the whole chapter.
+Inside a world, the tabs at the top are its games. Below the tabs you can see which book page the game comes from.
+
+## 05. Exercises index: book page to game
+The Exercises card on the home screen lists every exercise and activity of the book in page order.
+Each row shows the book page, the exercise, the game that practises it, and where it is in the map. So if you are teaching page 12 today, just look for page 12.
+Tap Play, and that game opens directly.
+
+## 06. Class team play
+Class team play is the main way to use this game. The whole class is divided into teams, and one student at a time comes to the board.
+Choose from two to six teams. Names and colours are ready, but you can type your own team names.
+You can also set a time for each turn. Then tap Start class play.
+Now open any game. A big screen tells the class whose turn it is. Red Rockets, send a player!
+The student comes to the board, taps Ready, reads the question and answers. A right answer gives the team a point, with applause and confetti.
+Turns rotate automatically to the next team. The live scoreboard at the top stays visible to the whole class all the time.
+If a student wants to pass, tap Next student, and the turn moves to the next team.
+At the end of the game, the winning team gets a podium celebration with applause. Then tap Play again or Next game.
+
+## 07. The teacher timer
+Before each game, the Set Time screen appears. Choose no timer, thirty seconds, or one, two, three or five minutes.
+Or tap Custom, and set any time with the big plus and minus buttons for minutes and seconds.
+Tap Start game. A big clock appears at the top, easy to read from the back of the class. It is green, turns orange when little time is left, and red in the last ten seconds.
+Pause stops the clock, and the game is covered so nobody can answer. Tap Resume to continue.
+Plus thirty seconds gives extra time. Reset starts the clock again from the beginning.
+In the last ten seconds you hear a ticking sound. When time runs out, a bell rings and the Time up screen shows the score.
+From here you can Continue, go to the next game, or replay. The timer button in the top bar changes the time in the middle of a game.
+
+## 08. Right and wrong answers
+When the answer is right, the class hears applause, confetti bursts, the answer glows green and coins fly to the score. Chip the robot cheers too.
+A wrong answer is handled gently. There is a soft sound and a small shake, and the correct answer is highlighted in green, with a short line the child can read.
+Three right answers in a row show a fire streak with bonus coins.
+
+## 09. Game types
+Sort: tap a card, then tap the box where it belongs. Here, things with a computer inside, and things without.
+Match: tap a word on the left, then its partner on the right.
+Order: put the steps in the right sequence, one by one. This builds computational thinking.
+True or False: read the sentence and choose true or false.
+Rangoli Mirror: colour the right half so it becomes a mirror image of the left half, then tap Check.
+Be the Computer: follow the arrow cards one by one, and tap the next square where the robot moves.
+Team discussion rounds have no single answer. Teams talk, the teacher can tap Show ideas for hints, and then gives the point for a good answer.
+
+## 10. Solo mode
+For practice at home or one child at a time, choose Solo play. Before the game, the child can type a name.
+In solo mode the child has three hearts. A wrong answer takes away one heart.
+The fifty-fifty lifeline removes two wrong options, once per game.
+Right answers earn coins and XP. Children level up and collect badges, like First correct answer or Five in a row.
+The class scoreboard shows every player with coins, level, stars and badges.
+
+## 11. The teacher panel
+The teacher panel is protected by a small maths question, so children do not change the settings.
+Here you set the default time for every game, the time for each turn, and whether the Set Time screen appears before every game.
+Next are sound and music volume, a test sound button, text size, and the teams with their names.
+You can also turn hints and shuffling on or off, clear the scoreboard for a new class, and print a progress report.
+
+## 12. Classroom tips
+A few tips. Use class team play for revision at the end of a lesson. Thirty seconds per turn keeps the energy high.
+Use the Exercises card to match the game to today's book page. Progress is saved on this device only, so use the same board or computer every day.
+That is the SmartBytes 4 Game World: learning made fun, one turn at a time. Happy teaching!
